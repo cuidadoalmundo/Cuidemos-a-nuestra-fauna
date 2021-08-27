@@ -1,0 +1,48 @@
+body{
+    background-image: url("fotos/nido.JPG");
+    background-repeat: none;
+    color: violet; text-align:center;
+}
+nav button{
+    font-size: 20px;
+    background-color: saddlebrown;
+    border-radius: 15px;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+}
+.btn1{
+    background-color: chartreuse;}
+.btn2{
+    background-color:cyan;}
+.btn3{
+    background-color:bisque;}
+.btn4{
+    background-color:rebeccapurple;}
+.btn5{
+    background-color:cornflowerblue;}
+.btn6{
+    background-color: blue;}
+.btn6{
+    background-color:white;}
+                    
+.A{text-align:center;color: white;}
+.B{text-align:center;color:white}
+.C{text-align:center;color:white}
+.D{text-align:center;color:white}
+.E{text-align:center;color:white}
+.F{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align:left;
+    color:white
+}
+.G{text-align:left;color:white}
+
+.contenedorsocial{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.footer{text-align:center;color: white;}
